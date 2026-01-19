@@ -14,7 +14,7 @@ from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
 
 # ============================================
-# SELEÇÃO DE CLIENTE
+#             SELEÇÃO DE CLIENTE
 # ============================================
 def listar_clientes():
     """Lista todos os arquivos .env de clientes com seus nomes amigáveis."""

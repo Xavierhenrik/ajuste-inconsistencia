@@ -237,3 +237,7 @@ Para dúvidas ou problemas:
 2. Consulte o relatório de execução gerado
 3. Revise as configurações do `.env.staging`
 
+## Status
+
+Ainda em desenvolvimento
+Na espera de um abiente de stging adequado para teste em lote
